@@ -37,7 +37,7 @@ Para la creación de la calculadora se utilizó el lenguaje de marcado HTML, el 
 Grupo Valhalla:
 
 -Fernando Molina
--José Luis Mendez
+-José Miguel Mendez
 -Luis Díaz
 
 ## Contribuciones
